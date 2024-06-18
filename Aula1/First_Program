@@ -1,0 +1,9 @@
+nome = input(' Qual é o seu nome? ')
+
+idade = input(' Quantos anos você tem? ')
+
+altura = input (' Qual é sua altura em metros ? ')
+
+print(' Obrigado pelas informações. ')
+
+print('Então, seu nome é', nome , ' e a sua idade é' , idade , 'anos' , 'e a sua altura é' , altura,'metros.')
