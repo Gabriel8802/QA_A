@@ -8,3 +8,4 @@ nome = input('digite um nome:')
 cep = meu_dict.get(nome)
 
 print(f'o cep de {nome} é {cep}') 
+
