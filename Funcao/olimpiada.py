@@ -12,3 +12,6 @@ while True:
 resultado=alunos(n1)
 print(resultado)
 
+
+    
+        
