@@ -1,0 +1,1 @@
+dados = dados_ficticios.csv.get(idade)
